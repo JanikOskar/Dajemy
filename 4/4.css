@@ -16,11 +16,11 @@
   display: flex;
   justify-content: space-between;
 }
-p.log {
+p.login {
   font-size: 36px;
   padding:28px 0px 29px 30px;
 }
-p.regis {
+p.registration {
   font-size: 36px;
   padding:28px 31px 29px 0px;
 }
