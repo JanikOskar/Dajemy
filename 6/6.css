@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  line-height: 1.4em;
+  vertical-align: baseline;
+  text-decoration: none;
+  outline: 0;
+}
+.blacksmile {
+  width: 200px;
+  height: 200px;
+}
+.fa-smile {
+  color: #000000;
+  font-size: 200px;
+}
+.ytbutton {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: #D7D7D7;
+    text-align: center;
+  }
+  .ytbutton:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+  }
+
+}
+.fab.fa-youtube {
+    display:inline-block;
+  vertical-align:middle;
+  color: red;
+  font-size:200px;
+}
+
+.camera{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #000000;
+    box-sizing:border-box;
+}
+
+.fa-camera-retro{
+color:#81DB79;
+
+}
