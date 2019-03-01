@@ -1,50 +1,43 @@
 * {
   margin: 0;
   padding: 0;
-  border: 0;
-  line-height: 1.4em;
-  vertical-align: baseline;
-  text-decoration: none;
-  outline: 0;
 }
 .blacksmile {
   width: 200px;
   height: 200px;
+  margin-bottom:30px;
 }
 .fa-smile {
   color: #000000;
   font-size: 200px;
 }
 .ytbutton {
-    display: inline-block;
-    width: 200px;
-    height: 200px;
-    background-color: #D7D7D7;
-    text-align: center;
-  }
-  .ytbutton:before {
-    content: '';
-    display: inline-block;
-    height: 100%;
-    vertical-align: middle;
-  }
-
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d7d7d7;
+  margin-bottom: 30px;
 }
-.fab.fa-youtube {
-    display:inline-block;
-  vertical-align:middle;
-  color: red;
-  font-size:200px;
+.fa-youtube{
+  width:250px;
+  height:141px;
+  padding-top:29px;
+  padding-bottom:30px;
 }
 
-.camera{
-    width: 200px;
-    height: 200px;
-    border: 2px solid #000000;
-    box-sizing:border-box;
+
+.camera {
+  width: 200px;
+  height: 200px;
+  border: 2px solid #000000;
+  box-sizing: border-box;
 }
 
 .fa-camera-retro{
-color:#81DB79;
+  width:151px;
+  height:131px;
+  padding:34px 25px 34px 24px;
 
 }
